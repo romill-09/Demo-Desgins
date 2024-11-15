@@ -91,5 +91,4 @@ You can now start building your project with Tailwind CSS.
 ## Conclusion
 
 You now have a React.js project set up with Tailwind CSS.
-```
 
